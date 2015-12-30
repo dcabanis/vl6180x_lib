@@ -1,7 +1,7 @@
 {
-  "name": "uber-library-example",
-  "author": "Joe Goggins <joe@spark.io>",
+  "name": "vl6180x_lib",
+  "author": "David Cabanis",
   "license": "MIT",
   "version": "0.0.10",
-  "description": "A simple library that illustrates coding conventions of a Spark Library"
+  "description": "This is a library that helps interface with ST's VL6180X time-of-flight distance and ambient light sensor. "
 }
