@@ -1,7 +1,5 @@
-#ifndef VL6180X_h
-#define VL6180X_h
-
-#include <Arduino.h>
+#ifndef VL6180X_lib_h
+#define VL6180X_lib_h
 
 class VL6180X
 {
