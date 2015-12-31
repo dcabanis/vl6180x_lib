@@ -1,5 +1,5 @@
-#ifndef VL6180X_lib_h
-#define VL6180X_lib_h
+#ifndef vl6180x_lib_h
+#define vl6180x_lib_h
 
 class VL6180X
 {
