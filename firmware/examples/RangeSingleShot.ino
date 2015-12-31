@@ -3,8 +3,7 @@ measurements from the VL6180X.
 
 The range readings are in units of mm. */
 
-#include <Wire.h>
-#include <VL6180X.h>
+#include <VL6180X_lib.h>
 
 VL6180X sensor;
 
