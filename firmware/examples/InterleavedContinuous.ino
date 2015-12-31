@@ -24,7 +24,7 @@ resolution of 0.32 lux/count, the light level is therefore
 
 The range readings are in units of mm. */
 
-#include <VL6180X_lib.h>
+#include <vl6180x_lib.h>
 
 VL6180X sensor;
 
