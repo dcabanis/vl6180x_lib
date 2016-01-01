@@ -1,6 +1,8 @@
 #ifndef vl6180x_lib_h
 #define vl6180x_lib_h
 
+#include "application.h"
+
 class VL6180X
 {
   public:
